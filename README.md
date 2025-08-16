@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Eduardo!
 
-<!--
-**Du-magon/Du-magon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação - UniFil
+🚀 Sempre em busca de aprender novas linguagens e ferramentas
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖥️ Tecnologias que uso/estudo
+- Java ☕
+- Git & GitHub 🛠️
+
+---
+
+## 📂 O que você vai encontrar aqui
+- Exercícios das aulas
+- Projetos pessoais 
