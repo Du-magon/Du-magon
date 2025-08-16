@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Eduardo!
 
-🎓 Estudante de Ciência da Computação - UniFil
-🚀 Sempre em busca de aprender novas linguagens e ferramentas
+- Estudante de Ciência da Computação - UniFil
+-  Em busca de aprender novas linguagens e ferramentas
 
 ---
 
